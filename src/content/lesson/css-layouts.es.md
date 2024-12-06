@@ -30,7 +30,7 @@ Todo el contenido del sitio web debe estar envuelto dentro de una caja (div, hea
 
 #### ¿De qué está compuesta una caja?
 
-Todas las cajas/contenedores deben tener los siguientes atributos:
+Todas las cajas/contenedores deben tener los:
 
 |**Atributo**   |**Descripción**   |
 |:--------------|:-----------------|
